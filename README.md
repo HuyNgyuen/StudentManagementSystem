@@ -8,7 +8,7 @@
 
 ---
 
-## � Screenshots
+## Screenshots
 
 ### Màn hình đăng nhập
 ![Login](docs/screenshots/login.png)
@@ -21,7 +21,7 @@
 
 ---
 
-## �📋 Tính năng chính
+## 📋 Tính năng chính
 
 ### 🔐 Hệ thống phân quyền
 - **Quản trị viên**: Toàn quyền quản lý hệ thống
