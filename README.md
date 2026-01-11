@@ -8,7 +8,7 @@
 
 ---
 
-## Screenshots
+## Views
 
 ### Màn hình đăng nhập
 ![Login](docs/screenshots/login.png)
